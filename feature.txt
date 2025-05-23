@@ -3,3 +3,4 @@ New feature in feature-A
 
 Dummy content for feature
 6ab1594 (Add dummy content to feature.txt)
+
