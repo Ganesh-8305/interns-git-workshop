@@ -1,8 +1,5 @@
-HEAD
-HEAD
-your change from current branch
 
-their change from other branch
-other branch
-Dummy content for feature
+HEAD
+Your changes on main
+Dummy content from development
 6ab1594 (Add dummy content to feature.txt)
