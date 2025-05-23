@@ -1,6 +1,5 @@
 HEAD
-New feature in feature-A
+your change from current branch
 
-Dummy content for feature
-6ab1594 (Add dummy content to feature.txt)
-
+their change from other branch
+other branch
