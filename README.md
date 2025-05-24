@@ -1,6 +1,10 @@
-<<<<<<< HEAD
+HEAD
 # Git Workshop Project
+HEAD
 Different change in main
-=======
+
 Hotfix applied
->>>>>>> hotfix
+ hotfix
+
+Minor update
+collaborator1
